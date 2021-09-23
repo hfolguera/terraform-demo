@@ -1,0 +1,9 @@
+*.swp
+*.bck
+*.tfstate
+*/.terragrunt-cache
+.terraform
+*.zip
+*.tar.gz
+ocienv
+*.auto.tfvars

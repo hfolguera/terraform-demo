@@ -1,7 +1,7 @@
 *.swp
 *.bck
 *.tfstate
-*/.terragrunt-cache
+**/.terragrunt-cache
 .terraform
 *.zip
 *.tar.gz

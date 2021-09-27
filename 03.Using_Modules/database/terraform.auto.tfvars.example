@@ -1,0 +1,17 @@
+# API Key fingerprint: OCI Console > Identity > Users > API Keys
+fingerprint = "xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx"
+
+# SSH Private Key Path
+private_key_path = "/Users/hfolguera/.ssh/id_rsa.pem"
+
+# OCI tenant identifier: OCI Console > Governance & Administration > Tenancy Details
+tenancy_ocid = "ocid1.tenancy.oc1..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# OCI User identifier: OCI Console > Identity > Users
+user_ocid = "ocid1.user.oc1..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# OCI Region
+region = "eu-frankfurt-1"
+
+# OCI Root compartment identifier: OCI Console > Identity > Compartments
+compartment_id = "ocid1.tenancy.oc1..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"

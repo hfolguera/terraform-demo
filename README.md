@@ -23,7 +23,7 @@ Once you are done, you have to create an OCI Object Storage by accessing your te
 - Laboratory 02. Basic Terraform 2
   - This exercice pretends to reflect how your infrastructure can grow (along with your files) and how you can use different `*.tf` files to organize your resources.
 - Laboratory 03. Using Modules
-  - In this exercice is shown how modules work and how you can group related resources by using modules and see how you can reuse and abstract your code.
+  - In this exercice is shown how modules work, how you can group related resources in a module and see how you can abstract some logic and reuse them.
 - Laboratory 04. Using Terragrunt
-  - In this exercice you can see the advantages of using tools like Terragrunt showing how you can generate dinamically the `provider.tf` and `backend.tf` files and also using variables in your backend URL.
+  - In this exercice you can see the advantages of using tools like Terragrunt showing how you can generate dynamically the `provider.tf` and `backend.tf` files and also using variables in your backend URL.
   

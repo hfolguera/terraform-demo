@@ -7,3 +7,4 @@
 *.tar.gz
 ocienv
 *.auto.tfvars
+**.terraform.lock.hcl
